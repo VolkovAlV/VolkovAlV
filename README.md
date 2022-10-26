@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Interesting in trading and programming so I wrote some Python bots for Tinkoff Invest ) 
+Interesting in trading and programming so I wrote some Python bots for Tinkoff Invest ) ...
 I would like to work 👯 with more experienced developers..
 
 
