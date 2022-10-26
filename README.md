@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Interesting in trading and programming so I wrote some Python bots for Tinkoff Invest ) 
+I would like to work 👯 with more experienced developers..
+
+
 <!--
 **VolkovAlV/VolkovAlV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
